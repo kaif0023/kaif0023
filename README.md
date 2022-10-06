@@ -2,31 +2,26 @@
 
 
 ### Hi there 👋
-
-<h3> Here's some fun facts about me: </h3>
+<h2> Hello I Am Md.Kaif </h2>
+<h3> Here's A Summary Of Myself :- </h3>
 
 - 🔭 I’m currently working on Python Core
 - 👯 I’m looking to collaborate on Data Science , Machine Learning and Deep Learning Projects
-- 🤔 I’m Currently Learning 
-- 💬 Ask me about Programming or Machine Learning
+- 🤔 I’m Currently Learning File Handling in Python 
+- 💬 Ask me about Python Programming or Machine Learning
 
 
-<p>Connect with me on
+<p>Connect with me on :
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+<a target="_blank" href="mailto:mkaif6176@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
 <br>
 </p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am IronMan. 😎🦇 
 
 ## 🛠️ My Skills
 
@@ -46,5 +41,4 @@
 <br/>
 
 ------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+<p> Pleasure To Meet You :)  </p>
