@@ -5,10 +5,10 @@
 <h2> Hello I Am Md.Kaif </h2>
 <h3> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on Python Core
-- 👯 I’m looking to collaborate on Data Science , Machine Learning and Deep Learning Projects
-- 🤔 I’m Currently Learning File Handling in Python 
-- 💬 Ask me about Python Programming or Machine Learning
+- 🔭 I’m currently working on Numpy Module Of Python
+- 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
+- 🤔 I’m Currently Learning Numpy Arrays in Python 
+- 💬 Ask me about Python Programming ,File Handling In Python, Data Science and Machine Learning
 
 
 <p>Connect with me on :
@@ -23,7 +23,7 @@
 <br>
 </p>
 
-## 🛠️ My Skills
+## 🛠️ My Skills :
 
 ### 👉 Programming languages
 
