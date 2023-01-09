@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Data Science and Machine Learning
-
+<h4> My Stats :- </h4>
+[![Kaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaif0023)](https://github.com/kaif0023/github-readme-stats)
 
 <p>Connect with me on :
 <br>	
