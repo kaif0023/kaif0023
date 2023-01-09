@@ -9,15 +9,10 @@
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Data Science and Machine Learning
-<h4> My Stats :- </h4>
-[![Kaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaif0023)](https://github.com/kaif0023/github-readme-stats)
 
-<p>Connect with me on :
+<p>Connect with me on :-
 <br>	
-&emsp;
-<a target="_blank" href="mailto:mkaif6176@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+📫 Gmail-Id: mkaif6176@gmail.com
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
@@ -25,6 +20,10 @@
 </p>
 
 ## 🛠️ My Skills :
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 ### 👉 Programming languages
 
