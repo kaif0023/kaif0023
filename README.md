@@ -9,10 +9,9 @@
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Data Science and Machine Learning
-
+- 📫 How to reach me: mkaif6176@gmail.com
 <p>Connect with me on :-
 <br>	
-📫 Gmail-Id: mkaif6176@gmail.com
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
