@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-### 👉 Programming languages
+### 👉 Programming languages I Have Learnt:
 
 <p align="left"> 
  
