@@ -18,7 +18,6 @@
 <br>	
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kaif5893?label=Followers&style=social">
 
 
 <br>
