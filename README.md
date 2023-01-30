@@ -8,7 +8,7 @@
 </h2>
 <h3> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on Tableu
+- 🔭 I’m currently working on My Sql
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Data Science and Machine Learning
