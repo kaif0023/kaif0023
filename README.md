@@ -5,7 +5,13 @@
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kaif0023&count_private=true&show_icons=true&include_all_commits=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif0023&hide=TeX&layout=compact)
+
 </h2>
+
 <h3> Here's A Summary Of Myself :- </h3>
 
 - 🔭 I’m currently working on My Sql
@@ -14,6 +20,7 @@
 - 💬 Ask me about Python Programming ,File Handling In Python, Data Science , Machine Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
 </p>
+
 <p>Connect with me on :-
 <br>	
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
