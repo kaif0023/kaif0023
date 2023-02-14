@@ -5,6 +5,7 @@
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaif0023&count_private=true&show_icons=true&include_all_commits=true)
  
@@ -24,8 +25,8 @@
 <p>Connect with me on :-
 <br>	
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/kaif0023?label=Github%20Followers&style=for-the-badge">
+<a target="_blank" href="https://www.instagram.com/mkaif.007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
 <br>
 </p>
@@ -35,6 +36,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=social)&nbsp;&nbsp;
 
 ### 👉 Programming languages I Have Learnt:
 
@@ -42,8 +45,8 @@
  
 &emsp;
 <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+</a>
 
 
 </p>
