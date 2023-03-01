@@ -5,9 +5,10 @@
 <h2> My Github Activities :-
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
+![My Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kaif0023})
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaif0023&count_private=true&show_icons=true&include_all_commits=true)
  
@@ -18,7 +19,7 @@
 <h3> Here's A Summary Of Myself :- </h3>
 
 - 🔭 I’m currently working on My Sql
-- 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science , Machine Learning and Deep Learning Projects
+- 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning,Deep Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
@@ -40,6 +41,7 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=social&logo=amazonaws)&nbsp;&nbsp;
 
 ### 👉 Programming languages I Have Learnt:
 
