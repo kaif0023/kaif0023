@@ -8,8 +8,8 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 
-![My Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kaif0023})
- 
+![My Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaif0023)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaif0023&count_private=true&show_icons=true&include_all_commits=true)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif0023&hide=TeX&layout=compact)
