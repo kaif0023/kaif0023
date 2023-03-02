@@ -17,7 +17,7 @@
 
 <h3> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on My Sql
+- 🔭 I’m currently working on Machine Learning Model DBScan
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning,Deep Learning, Tableu And Sql
