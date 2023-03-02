@@ -3,7 +3,6 @@
 ### Hi there ... 👋
 <h1> Hello I Am Md.Kaif </h1>
 <h2> My Github Activities :-
-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
@@ -40,7 +39,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=for-the-badge)&nbsp;&nbsp;
 ![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=for-the-badge)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
