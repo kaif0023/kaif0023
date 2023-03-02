@@ -30,19 +30,22 @@
 <a target="_blank" href="https://twitter.com/kaif5893"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/kaif.md.007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/mdkaif007"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
+<a target="_blank" href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</img>
+</a>
 
 <br>
 </p>
 
 ## 🛠️ My Skills :
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=social&logo=amazonaws)&nbsp;&nbsp;
-
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=for-the-badge)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=for-the-badge)&nbsp;&nbsp;
+![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=for-the-badge)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
 ### 👉 Programming languages I Have Learnt:
 
 <p align="left"> 
