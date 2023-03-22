@@ -2,22 +2,21 @@
 
 ### Hi there ... 👋
 <h1> Hello I Am Md.Kaif </h1>
-<h2> My Github Activities -:-
+<h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
-
-![My Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaif0023)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaif0023&count_private=true&show_icons=true&include_all_commits=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif0023&hide=TeX&layout=compact)
-
 </h2>
+<h3>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif0023&" alt="kaif0023" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif0023&show_icons=true&locale=en&layout=compact" alt="kaif0023" /></p>
+</h3>
 
-<h3> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on Machine Learning Model DBScan
+
+<h4> Here's A Summary Of Myself :- </h3>
+
+- 🔭 I’m currently working on Car-Price Dataset
 - 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
 - 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning,Deep Learning, Tableu And Sql
@@ -53,9 +52,12 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 </a>
 
-
+---------------------------------------------------------------------------------------------------------------------------
+</p>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/kaif0023/count.svg" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaif0023.kaif0023)
-------
+
 <p> Pleasure To Meet You :)  </p>
