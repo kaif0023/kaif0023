@@ -12,6 +12,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif0023&show_icons=true&locale=en&layout=compact" alt="kaif0023" /></p>
 </h3>
 </p>
+<img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p>
 <h4> Here's A Summary Of Myself :- </h3>
