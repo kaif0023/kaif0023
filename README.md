@@ -1,12 +1,13 @@
+<h1> Hello I Am Md.Kaif</h1>
+<img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
-
-### Hi there ... 👋
-<h1> Hello I Am Md.Kaif </h1>
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 </h2>
+<img alt="GitHub commit activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=kaif0023&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true" />
+
 <br>
 <h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif0023&" alt="kaif0023" /><img align='centre' src="https://github-readme-stats.vercel.app/api?username=kaif0023&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Activity&bg_color=00000000&text_color=8B8B8B&title_color=4183C4&icon_color=4183C4&disable_animations=false" />
@@ -14,15 +15,13 @@
 </h3>
 </p>
 <br>
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
-<br>
 <p>
 <h4> Here's A Summary Of Myself :- </h3>
 
 - 🔭 I’m currently working on Car-Price Dataset
-- 👯 I’m looking to collaborate on Python Core,Object-Oriented Programming,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
+- 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning Machine Learning in Python 
-- 💬 Ask me about Python Programming ,File Handling In Python, Machine Learning,Deep Learning, Tableu And Sql
+- 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
 </p>
 
