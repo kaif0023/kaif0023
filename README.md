@@ -8,12 +8,12 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 </h2>
 <h3>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif0023&" alt="kaif0023" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif0023&" alt="kaif0023" /><img align='centre' src="https://github-readme-stats.vercel.app/api?username=kaif0023&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Activity&bg_color=00000000&text_color=8B8B8B&title_color=4183C4&icon_color=4183C4&disable_animations=false" />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif0023&show_icons=true&locale=en&layout=compact" alt="kaif0023" /></p>
 </h3>
+</p>
 
-
-
+<p>
 <h4> Here's A Summary Of Myself :- </h3>
 
 - 🔭 I’m currently working on Car-Price Dataset
@@ -53,10 +53,6 @@
 </a>
 
 ---------------------------------------------------------------------------------------------------------------------------
-</p>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kaif0023/count.svg" />
 </p>
 
 
