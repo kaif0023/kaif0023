@@ -1,5 +1,5 @@
 <h1> Hello I Am Md.Kaif</h1>
-<img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img align="centre"<img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
