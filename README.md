@@ -4,7 +4,7 @@
 <br>
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Machine-Learning?label=Machine%20Learning&style=for-the-badge">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Data-Science-Project?label=Data%20Science%20Project&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 </h2>
 <img alt="GitHub commit activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=kaif0023&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true" />
