@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on Car-Price Dataset
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
-- 🤔 I’m Currently Learning Machine Learning in Python 
+- 🤔 I’m Currently Learning My Sql 
 - 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
 </p>
