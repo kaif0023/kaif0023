@@ -52,6 +52,8 @@
 &emsp;
 <a href="https://python.org/">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+</a>
+<a href="https://www.r-project.org/about.html">
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </a>
 
