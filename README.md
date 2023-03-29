@@ -5,6 +5,8 @@
 <h2> My Github Activities :-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Data-Science-Project?label=Data%20Science%20Project&style=for-the-badge">
+ 
+<img alt="GitHub commit activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kaif0023}&theme={solarized}">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 </h2>
 <br>
@@ -45,7 +47,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
-![Conda](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;&nbsp;
+![Microsoft Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;&nbsp;
+
 ### 👉 Programming languages I Have Learnt:
 
 <p align="left"> 
@@ -63,6 +68,7 @@
 </a>
 <a><img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/>
 </a>
+ 
 ---------------------------------------------------------------------------------------------------------------------------
 </p>
 <p align="center"> 
