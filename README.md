@@ -44,6 +44,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
 ### 👉 Programming languages I Have Learnt:
 
 <p align="left"> 
@@ -51,6 +52,7 @@
 &emsp;
 <a href="https://python.org/">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </a>
 
 ---------------------------------------------------------------------------------------------------------------------------
