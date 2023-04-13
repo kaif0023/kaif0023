@@ -66,6 +66,9 @@
 </a>
 <a><img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/>
 </a>
+<a>
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
+</a>
  
 ---------------------------------------------------------------------------------------------------------------------------
 </p>
