@@ -37,8 +37,6 @@
 
 ## 🛠️ My Skills :
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=for-the-badge)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=for-the-badge)&nbsp;&nbsp;
 ![Tableu](https://img.shields.io/badge/-Tableu-black?logo=Tableu&style=for-the-badge)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
