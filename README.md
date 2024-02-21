@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on Natural Language Processing
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
-- 🤔 I’m Currently Learning My Sql Operators
+- 🤔 I’m Currently Doing BCA With Specialization in AI/ML
 - 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
 </p>
