@@ -75,4 +75,4 @@
   <img src="https://profile-counter.glitch.me/kaif0023/count.svg" />
 </p>
 
-<p> Pleasure To Meet You :)  </p>
+<p> Pleased To Meet You :)  </p>
