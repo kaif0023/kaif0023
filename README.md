@@ -17,7 +17,7 @@
 <p>
 <h4> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on Deep Learning Projects
+- 🔭 I’m currently working on Artificial Intelligence Projects
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Doing BCA With Specialization in AI/ML
 - 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql
