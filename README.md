@@ -1,4 +1,4 @@
-<h1> Hello I Am Mohd.Kaif </h1>
+<h1> Hello I Am Mohd Kaif </h1>
 <br>
 <p><img align="centre"<img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" /></p>
 <br>
@@ -72,7 +72,7 @@
 </p>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kaif0023/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=kaif0023" />
 </p>
 
 <p> Pleased To Meet You :)  </p>
