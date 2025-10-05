@@ -4,7 +4,6 @@
 <br>
 <h2> My Github Activities -:-
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/kaif0023/kaif0023?style=for-the-badge"> 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/kaif0023/Data-Science-Project?label=Data%20Science%20Project&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaif0023/kaif0023?style=for-the-badge"> 
 </h2>
 <br>
