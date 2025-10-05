@@ -16,10 +16,10 @@
 <p>
 <h4> Here's A Summary Of Myself :- </h3>
 
-- 🔭 I’m currently working on Artificial Intelligence Projects
+- 🔭 I’m currently working on Image Based Animal Type Classification
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Doing BCA With Specialization in AI/ML
-- 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql
+- 💬 Ask me about Python Programming , Artificial Intelligence , Machine Learning,Deep Learning, Tableu And Sql
 - 📫 How to reach me: mkaif6176@gmail.com
 </p>
 
